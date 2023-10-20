@@ -66,7 +66,7 @@ list_of_students() {
 perimeter_of_rectangle() {
   var length = 7;
   var width = 8;
-  var perimeter = (length + width * 2);
+  var perimeter = (length + width) * 2;
 
   print("$perimeter(cm^2)");
 }
